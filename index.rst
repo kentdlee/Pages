@@ -41,7 +41,7 @@ It's never too early to learn to program. My experience has shown me that studen
 as early as elementary age can learn to program. They really enjoy it. But it's not
 too late to start in college or even after college either!
 
-I have written several textbooks for Computer Science. They are listed below along with
+I have written several textbooks and other curriculum for Computer Science. They are listed below along with
 links to supplementary files that go along with the texts.
 
 Introduction to Programming
@@ -131,7 +131,8 @@ Quick Links
 	* `Data Structures and Algorithms with Python <http://knuth.luther.edu/~leekent/CS2Plus>`_ has support materials for the data structures text.
 	* `Foundations of Programming Languages <http://knuth.luther.edu/~leekent/PL>`_ has support materials for the programming languages text.
 	* `Computer Science Writing Requirement Guidelines <http://knuth.luther.edu/~leekent/stories/luther-cs-writing-requirement.html>`_ provides the requirements for completing CS296 which must be taken in conjunction with one CS course numbered 300 or above.
-	* `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler.
+	* `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version. The newer version is written
+    in Java and is called `JCoCo <http://github.com/kentdlee/JCoCo>`_.
 	* `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
 	* `My Publications and Other Projects <publications.html>`_ contains a list of papers I have presented and textbooks I have published along with a description of my current projects. You can download many of the papers from this page.
 	* `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
