@@ -41,7 +41,7 @@ It's never too early to learn to program. My experience has shown me that studen
 as early as elementary age can learn to program. They really enjoy it. But it's not
 too late to start in college or even after college either!
 
-I have written several textbooks and other curriculum for Computer Science. They are listed below along with
+I have written several textbooks and other curricula for Computer Science. They are listed below along with
 links to supplementary files that go along with the texts.
 
 Introduction to Programming
