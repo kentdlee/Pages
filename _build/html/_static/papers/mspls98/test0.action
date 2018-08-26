@@ -1,0 +1,9 @@
+||allocate [integer]cell
+|then
+||bind "M" to the (given [integer]cell) [[integer]cell] 
+hence
+|||give the 4
+||and then
+|||give the 5
+|then
+||give the sum (given integer#1, given integer#2)

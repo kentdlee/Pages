@@ -6,8 +6,6 @@
 The Pages of Kent D. Lee
 ================================================
 
-
-
 Hello!
 --------
 
@@ -87,7 +85,7 @@ Data Structures and Algorithms
 	:align: right
 
 
-With Dr. Steve Hubbard, Professor Emeritus at Luther College, I have written a textbook on `Data Structures and
+With Dr. Steve Hubbard, Professor Emeritus at Luther College, I have written a `textbook on Data Structures and
 Algorithms with Python <https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714/ref=sr_1_1?ie=UTF8&qid=1535166422&sr=8-1&keywords=kent+lee+data+structures>`_
 as the programming language. This text contains the traditional second course in Computer
 Science topics along with Advanced Data Structures topics that are appropriate for a third or fourth year Computer
@@ -108,7 +106,7 @@ The implementation and specification of programming languages is an area that I 
 have written a `textbook which focuses on the design and implementation of programming languages
 <https://www.amazon.com/Foundations-Programming-Languages-Undergraduate-Computer/dp/3319707892/ref=sr_1_1?ie=UTF8&qid=1535151950&sr=8-1&keywords=kent+lee+programming>`_.
 The text contains some theory mixed with various pieces of a programming language implementation. In addition, the text
-introduces the reader to functional and logic programming.
+introduces the reader to virtual machines, functional programming with Standard ML, and logic programming with Prolog.
 
 You can get access to `support material for the textbook at this website <http://knuth.luther.edu/~leekent/PL/>`_.
 
@@ -126,28 +124,49 @@ both the compiler and the type inference system.
 
 Quick Links
 ------------------------
+Here are direct links for the resources I have written for teaching. You are welcome to use anything
+you find here for non-commercial, educational use.
 
-	* `Python Programming Fundamentals Support Materials <http://knuth.luther.edu/~leekent/IntroToComputing>`_ has support materials for my introductory Python programming text.
-	* `Data Structures and Algorithms with Python <http://knuth.luther.edu/~leekent/CS2Plus>`_ has support materials for the data structures text.
-	* `Foundations of Programming Languages <http://knuth.luther.edu/~leekent/PL>`_ has support materials for the programming languages text.
-	* `Computer Science Writing Requirement Guidelines <http://knuth.luther.edu/~leekent/stories/luther-cs-writing-requirement.html>`_ provides the requirements for completing CS296 which must be taken in conjunction with one CS course numbered 300 or above.
-	* `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version. The newer version is written in Java and is called `JCoCo <http://github.com/kentdlee/JCoCo>`_.
-	* `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
-	* `My Publications and Other Projects <publications.html>`_ contains a list of papers I have presented and textbooks I have published along with a description of my current projects. You can download many of the papers from this page.
-	* `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
-	* `Building a Recursive Descent Parser <http://knuth.luther.edu/~leekent/tutorials/ll1.html>`_ is a widely referenced tutorial on building a recursive descent parser.
-	* `Programming Languages: An Active Learning Approach Support Materials <http://knuth.luther.edu/~leekent/ProgrammingLanguages>`_. This is the old textbook. Look for the new one coming out spring of 2015.
+* `Python Programming Fundamentals Support Materials <http://knuth.luther.edu/~leekent/IntroToComputing>`_ has support materials for my introductory Python programming text.
+* `Data Structures and Algorithms with Python Textbook Support Materials <http://knuth.luther.edu/~leekent/CS2Plus>`_ are available here.
+* `Foundations of Programming Languages Textbook Support Materials <http://knuth.luther.edu/~leekent/PL>`_ can be found here.
+* `Computer Science Writing Requirement Guidelines <http://knuth.luther.edu/~leekent/stories/luther-cs-writing-requirement.html>`_ provides the requirements for completing CS296 which must be taken in conjunction with one CS course numbered 300 or above.
+* `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version.
+* The newer `JCoCo <http://github.com/kentdlee/JCoCo>`_ virtual machine is a Java implementation.
+* `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
+* `My Publications and Other Projects <publications.html>`_ contains a list of papers I have presented and textbooks I have published along with a description of my current projects. You can download many of the papers from this page.
+* `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
+* `Building a Recursive Descent Parser <http://knuth.luther.edu/~leekent/tutorials/ll1.html>`_ is a widely referenced tutorial on building a recursive descent parser.
+* `Programming Languages: An Active Learning Approach Support Materials <http://knuth.luther.edu/~leekent/ProgrammingLanguages>`_. This is the old textbook. Look for the new one coming out spring of 2015.
 
+Publications
+------------------
+If you wish to contact me about any of these papers or texts, you can send me email at kentdlee@luther.edu.
+
+* `A Framework for Teaching Programming Languages <_static/papers/LeeSigCSE2015.pdf>`_ - Presented at SIGCSE 2015.
+
+* `Foundations of Programming Languages <http://cs.luther.edu/~leekent/PL>`_ - Published with Springer in 2015. Support materials for this text may be found at http://cs.luther.edu/~leekent/plfoundations. This text incorporates a virtual machine implementation, compilation of a functional language, and type inference in a one semester course on Programming Languages.
+
+* `Data Structures and Algorithms with Python <http://cs.luther.edu/~leekent/CS2Plus>`_ - Written with Steve Hubbard and published with Springer in 2015. This text covers both introductory and advanced data structures and algorithms topics.
+
+* `Python Programming Fundamentals <http://cs.luther.edu/~leekent/IntroToComputing>`_ - In 2015 I published a second edition with Springer Publishing of this successful introduction to programming. There are also accompanying `video lectures available on YouTube <https://www.youtube.com/user/CSProfessor>`_.
+
+* *Programming Languages: An Active Learning Approach* - In 2008 I published this textbook with Springer. This text has since been replaced by the newer *Foundations of Programming Languages*.
+
+* *Teaching Programming Languages through Language Implementation* - In 2003 I presented this paper where I describe a series of projects that may be used to teach programming languages at the undergraduate level. This paper was presented at the Midwest Instructional and Computing Symposium at St. Scholastica in Duluth, MN.
+
+* `A Formally Verified Register Allocation Framework <_static/papers/formalregs.pdf>`_ - In April of 2003 I presented this paper at the Third Workshop on Language Descriptions, Tools and Applications (LDTA 2003). This was a continuation of work done in two earlier papers on register allocation. This paper pulls a lot of the work done in the earlier papers together and adds to it.
+
+* `Postfix Transformations for Action Notation <http://www.brics.dk/NS/00/6/>`_ - In Peter D. Mosses and Hermano Perrelli de Moura, editors, AS 2000, Proc. Third International Workshop on Action Semantics, Amsterdam, Recife, Brazil, number NS-00-6 in Notes Series, BRICS, Dept. of Computer Science, Univ. of Aarhus, August 2000.
+
+* `Formal Development of a Minimal Register Allocation Algorithm <_static/papers/verify.ps>`_ - Technical Report 99-07, University of Iowa, Department of Computer Science, Iowa City, IA, 1999.
+
+* `Minimal Register Allocation <_static/papers/register.ps>`_ - Technical Report 99-06, University of Iowa, Department of Computer Science, Iowa City, IA, 1999.
+
+* `Tuple Sort Inference in Action Semantics <http://www.brics.dk/NS/99/3/>`_ - In Peter D. Mosses and David A. Watt, editors, AS'99, Proc. Second International Workshop on Action Semantics, Amsterdam, The Netherlands, number NS-99-3 in Notes Series, BRICS, Dept. of Computer Science, Univ. of Aarhus, May 1999.
+
+* `Action Semantics-based Compiler Generation <_static/papers/thesis.ps>`_ - Completed in 1999, my dissertation describes an Action Semantics-based compiler generator called Genesis. Genesis implements a richer subset of Action Semantics than had been previously attempted in AS compiler generators.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

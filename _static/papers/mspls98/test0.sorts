@@ -1,0 +1,18 @@
+||allocate [integer]cell
+||: Action ({},{}) -> ({1:theta_0},{})
+|then
+||bind "M" to the (given [integer]cell) [[integer]cell] 
+||: Action ({1:theta_0},{}) -> ({},{M:theta_0})
+|: Action ({},{}) -> ({},{M:theta_0})
+hence
+|||give the 4
+|||: Action ({},{M:theta_0}) -> ({1:theta_4},{})
+||and then
+|||give the 5
+|||: Action ({},{M:theta_0}) -> ({1:theta_5},{})
+||: Action ({},{M:theta_0}) -> ({1:theta_4,2:theta_5},{})
+|then
+||give the sum (given integer#1, given integer#2)
+||: Action ({1:theta_4,2:theta_5},{M:theta_0}) -> ({1:theta_10},{})
+|: Action ({},{M:theta_0}) -> ({1:theta_10},{})
+: Action ({},{}) -> ({1:theta_10},{})
