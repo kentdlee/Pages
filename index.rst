@@ -133,7 +133,7 @@ you find here for non-commercial, educational use.
 * `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version.
 * The newer `JCoCo <http://kentdlee.github.io/JCoCoPages>`_ virtual machine is a Java implementation.
 * `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
-* The `Computational Models Website <http://cs.luther.edu/~leekent/ComputationalModels`_ contains links to code and project descriptions for a variety of projects I developed for this course. I also have solutions to all projects available to teachers by request. 
+* The `Computational Models Website <http://cs.luther.edu/~leekent/ComputationalModels>`_ contains links to code and project descriptions for a variety of projects I developed for this course. I also have solutions to all projects available to teachers by request. 
 * `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
 * `Building a Recursive Descent Parser <_static/papers/ll1.html>`_ is a widely referenced tutorial on building a top-down parser.
 
