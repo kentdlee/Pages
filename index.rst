@@ -9,12 +9,12 @@ The Pages of Kent D. Lee
 Hello!
 --------
 
-.. figure:: _static/kent200.jpg
+.. figure:: _static/kent800.jpg
 	:align: right
 
 Welcome to Luther College and the Computer Science Department, the home of both Computer Science and
 Data Science programs! I welcome visitors.
-If you need to see me please consult my calendar for my office hours. If my office hours
+If you need to see me please consult my `calendar`_ for my office hours. If my office hours
 don't work, then email me with a time that will work but consult my calendar to see when
 I am free first. And, don't hesitate to just stop by. I am available most anytime I am not
 in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside
@@ -36,7 +36,7 @@ Interested in Learning to Program?
 ------------------------------------
 
 It's never too early to learn to program. My experience has shown me that students
-as early as elementary age can learn to program. They really enjoy it. But it's not
+as early as elementary age enjoy creating really cool programs. And it's not
 too late to start in college or even after college either!
 
 I have written several textbooks and other curricula for Computer Science. They are listed below along with
@@ -53,7 +53,7 @@ My `introductory text for computer programming <https://www.amazon.com/Programmi
 focuses on Python programming. It introduces programming to
 people with no previous experience in programming. In support of this text I have produced lectures that
 are available for free on Youtube. These videos have been very popular with people learning to program. The last I
-checked there were a half million views of them and I have over 3,300 subscribers. You can find the `playlist for these
+checked there were a half million views of these lectures and over 3,300 subscribers to my channel. You can find the `playlist for these
 videos by clicking here <https://www.youtube.com/playlist?list=PL1DE477438120C9EF>`_. `You can access the supplementary
 materials for this textbook by clicking here <http://knuth.luther.edu/~leekent/IntroToComputing>`_.
 
@@ -127,17 +127,31 @@ Quick Links
 Here are direct links for the resources I have written for teaching. You are welcome to use anything
 you find here for non-commercial, educational use.
 
-* `Python Programming Fundamentals Support Materials <http://knuth.luther.edu/~leekent/IntroToComputing>`_ has support materials for my introductory Python programming text.
-* `Data Structures and Algorithms with Python Textbook Support Materials <http://knuth.luther.edu/~leekent/CS2Plus>`_ are available here.
-* `Foundations of Programming Languages Textbook Support Materials <http://knuth.luther.edu/~leekent/PL>`_ can be found here.
-* `Computer Science Writing Requirement Guidelines <http://knuth.luther.edu/~leekent/stories/luther-cs-writing-requirement.html>`_ provides the requirements for completing CS296 which must be taken in conjunction with one CS course numbered 300 or above.
+* `Python Programming Fundamentals Support Materials <http://knuth.luther.edu/~leekent/IntroToComputing>`_ has support materials for my introductory Python programming text. Solutions and other teaching resources are available to teachers upon request.
+* `Data Structures and Algorithms with Python Textbook Support Materials <http://knuth.luther.edu/~leekent/CS2Plus>`_ are available here. Solutions and other teaching resources are available to teachers upon request.
+* `Foundations of Programming Languages Textbook Support Materials <http://knuth.luther.edu/~leekent/PL>`_ can be found here. Solutions and other teaching resources are available to teachers upon request.
 * `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version.
-* The newer `JCoCo <http://github.com/kentdlee/JCoCo>`_ virtual machine is a Java implementation.
+* The newer `JCoCo <http://kentdlee.github.io/JCoCoPages>`_ virtual machine is a Java implementation.
 * `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
-* `My Publications and Other Projects <publications.html>`_ contains a list of papers I have presented and textbooks I have published along with a description of my current projects. You can download many of the papers from this page.
 * `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
-* `Building a Recursive Descent Parser <http://knuth.luther.edu/~leekent/tutorials/ll1.html>`_ is a widely referenced tutorial on building a recursive descent parser.
-* `Programming Languages: An Active Learning Approach Support Materials <http://knuth.luther.edu/~leekent/ProgrammingLanguages>`_. This is the old textbook. Look for the new one coming out spring of 2015.
+* `Building a Recursive Descent Parser <_static/papers/ll1.html>`_ is a widely referenced tutorial on building a top-down parser.
+
+Sample Projects
+-------------------
+I have worked on so many projects over my time as a teacher that I thought I would share a few. Most of these
+are not complete projects, but meant to serve as an introduction to some area of programming or as a start of a project for students. But, in many cases a more complete version is available upon request from other teachers. Students might also get some ideas for themselves here of projects they may be interested in developing further.
+
+* The `JCoCo Virtual Machine (VM) <http://kentdlee.github.io/JCoCoPages>`_ and `its source code <http://github.com/kentdlee/JCoCo>`_ are one of my more recent projects. Much can be done to extend this virtual machine for parallel computation, GUI programming, or a myriad of other projects. Most recently I added some Turtle Graphics to the virtual machine.
+
+* The `MLComp Project <http://github.com/kentdlee/MLComp>`_ is a full-blown Standard ML compiler that compiles to the JCoCo VM and has a type checker written in Prolog. The project uses a Standard ML scanner and parser generator to produce an abstract syntax tree (AST) of a source program and then has a code generator that produces JCoCo VM code. This project could be extended to include even more of the Standard ML language, or it could be used as the basis for building an oCaML compiler. If you were interested in this project, a more complete version of the MLComp compiler is available upon request.
+
+* The `AlphaZero Project <http://github.com/kentdlee/alpha-zero-general>`_ is a clone of `Surag Nair's project <https://github.com/suragnair/alpha-zero-general>`_. In this I took Surag's Alpha Zero Neural Net for playing Tic Tac Toe and added a GUI front-end to it so it could be played against by a human. This could be taken further to add a GUI front-end to the Connect Four neural net but some work would be required to get all of this to work together. I have a GUI front-end that could communicate with the neural net backend in much the same way that the Tic Tac Toe project works (through a pipe and a well-defined architecture).
+
+* The `GoBackN Project <http://cs.luther.edu/~leekent/Networking/GoBackN.html>`_ is an example of a project that I developed when teaching Computer Networking. The project includes several parts of the code. A full solution is available upon request. The project incorporates an implementation of a Socket class and implements TCP over UDP as a means of learning the difference between guaranteed, reliable end to end service with TCP and the unguaranteed service of UDP.
+
+* The `Theory of Computation <http://cs.luther.edu/~leekent/ComputationalModels>`_ site contains several projects that are based on building a bottom-up parser generator and a scanner. These projects involve building finite state machines from regular expressions and building a parser from a context-free grammar. These are projects I first worked on during the summer of 1984 (when I was a college student) and have lived on when I rewrote them in Python for use in my Computational Models course. All the code for these projects is complete and is available upon request. The complete project is a full blown compiler generator written in Python.
+
+There have been other projects in the areas of Computer Graphics, Machine Learning, Artificial Intelligence, Database Systems, Operating Systems, Parallel Computation, Programming Languages, Data Structures and Algorithms, Graph Theory, and the Theory of Computation. I have taught all these courses at one time or another and I have developed projects for all of them.
 
 Publications
 ------------------
@@ -166,6 +180,14 @@ If you wish to contact me about any of these papers or texts, you can send me em
 * `Tuple Sort Inference in Action Semantics <http://www.brics.dk/NS/99/3/>`_ - In Peter D. Mosses and David A. Watt, editors, AS'99, Proc. Second International Workshop on Action Semantics, Amsterdam, The Netherlands, number NS-99-3 in Notes Series, BRICS, Dept. of Computer Science, Univ. of Aarhus, May 1999.
 
 * `Action Semantics-based Compiler Generation <_static/papers/thesis.ps>`_ - Completed in 1999, my dissertation describes an Action Semantics-based compiler generator called Genesis. Genesis implements a richer subset of Action Semantics than had been previously attempted in AS compiler generators.
+
+Calendar
+--------------
+
+.. raw:: html
+
+  <iframe src="https://calendar.google.com/calendar/embed?src=leekentd%40luther.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 .. toctree::
    :maxdepth: 2
