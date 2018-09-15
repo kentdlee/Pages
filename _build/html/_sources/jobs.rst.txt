@@ -16,7 +16,7 @@ and know that they also have these Computer Science or Data Science skills. The 
 class of Computer Science seniors at Luther College.
 
 Computer Science and Data Science have gotten a pretty bad rap for being just for *geeks*. The reality is the job is
-collaborative, full of creativity, demanding, but fun! You get to build things for a living. It's kind of like a
+collaborative, full of creativity, demanding, and fun! You get to build things for a living. It's kind of like a
 little more cerebral Lego building job. When you learn the skills of Computer and Data Science professionals, you
 get good at putting the building blocks together in different ways to build some really wonderful solutions to
 problems. That's what Computer Science and Data Science are all about: Solving Problems to make lives better.
@@ -118,5 +118,5 @@ Take the initiative to do at least some of these things! It will pay off for you
 as long as you work at it and maintain a B average or so, you are almost guaranteed a good job that is rewarding and
 exciting! Good Luck!!!
 
-  Kent D. Lee, 
+  Kent D. Lee,
   Professor of Computer Science and Data Science at Luther College
