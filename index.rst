@@ -39,7 +39,7 @@ It's never too early to learn to program. My experience has shown me that studen
 as early as elementary age enjoy creating really cool programs. And it's not
 too late to start in college or even after college either!
 
-If you are interested in attending Luther College, we offer a major and minor in Computer Science and a major and a minor in Data Science. You can view our requirements for both by going to `http://cs.luther.edu <http://cs.luther.edu>`_. `A graph of the requirements for both majors and both minors is provided here <_static/CSDSFlowChart.png>`_ for your reference. 
+If you are interested in attending Luther College, we offer a major and minor in Computer Science and a major and a minor in Data Science. You can view our requirements for both by going to `http://cs.luther.edu <http://cs.luther.edu>`_. `A graph of the requirements for both majors and both minors is provided here <_static/CSDSFlowChart.png>`_ for your reference.
 
 I have written several textbooks and other curricula for Computer Science. They are listed below along with
 links to supplementary files that go along with the texts.
@@ -155,6 +155,11 @@ are not complete projects, but meant to serve as an introduction to some area of
 * The `Theory of Computation <http://cs.luther.edu/~leekent/ComputationalModels>`_ site contains several projects that are based on building a bottom-up parser generator and a scanner generator. These projects involve building finite state machines from regular expressions and building a parser from a context-free grammar. These are projects I first worked on during the summer of 1984 (when I was a college student) and have lived on when I rewrote them in Python for use in my Computational Models course. All the code for these projects is complete and is available upon request. The complete project is a full blown compiler generator written in Python.
 
 There have been other projects in the areas of Computer Graphics, Machine Learning, Artificial Intelligence, Database Systems, Operating Systems, Parallel Computation, Programming Languages, Data Structures and Algorithms, Graph Theory, and the Theory of Computation. I have taught all these courses at one time or another and I have developed projects for all of them.
+
+Interested in a Job or Internship?
+------------------------------------
+
+Read this `guide on getting a job or an internship <jobs.html>`_.
 
 Publications
 ------------------

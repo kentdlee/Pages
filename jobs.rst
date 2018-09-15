@@ -1,0 +1,122 @@
+Jobs and Internships
+++++++++++++++++++++++++++++++++++++++
+
+What is a Computer Science or Data Science job like? I get asked that question frequently by both prospective students and
+college students alike. The fact is that most young people don't meet software developers in their young lives.
+Teachers, doctors, nurses, musicians are all more prevalent or at least more visible in their lives. So, it is no
+wonder that young adults don't have *software developer* on their minds because they don't have any role models.
+
+.. figure:: _static/seniors2018.jpg
+
+The fact is that unlike the stereotypes of computer programmers, most computer programmers blend right in to everyday
+life. You may not know you are talking to a software developer until you ask them what they do. My next door neighbor
+is a software developer. She works from home. My two sons are software developers. One played football in college, the
+other was a tuba player in the symphony orchestra and concert band. My point is, there is no way to look at someone
+and know that they also have these Computer Science or Data Science skills. The people in the picture are the 2018 graduating
+class of Computer Science seniors at Luther College.
+
+Computer Science and Data Science have gotten a pretty bad rap for being just for *geeks*. The reality is the job is
+collaborative, full of creativity, demanding, but fun! You get to build things for a living. It's kind of like a
+little more cerebral Lego building job. When you learn the skills of Computer and Data Science professionals, you
+get good at putting the building blocks together in different ways to build some really wonderful solutions to
+problems. That's what Computer Science and Data Science are all about: Solving Problems to make lives better.
+
+Here are some of the problems that have been worked on by software developers and in particular by Luther College graduates.
+
+* IBM - Developing the Watson Health project that is helping doctors match cancer patients with cancer studies.
+* Hormel Foods - Helping a great company efficiently run its meat processing business (and distributing SPAM world wide!).
+* John Deere - Helping the farmers and would-be farmers (like me) of the world feed the world.
+* Medtronic - Making pacemakers and other medical devices that give people a better life.
+* Delta Airlines - managing billing and airline traffic around the world.
+* Mayo Clinic - Building software in so many areas like machine learning, data visualization, surgical instrumentation,
+  and many, many other projects that are all giving us the best health care available.
+* Pearson Publishing - Delivering electronic content to people world-wide.
+* Accenture - Providing consulting services for companies like Best Buy.
+* HealthSparq - Helping people make smarter health care choices.
+* Innovative Software Engineering - Helping leading companies create intuitive, end-to-end software solutions.
+* Wahoo Fitness - Delivering exciting training and exercise equipment.
+* Google - Searching the world for answers.
+* Apple - Software and hardware innovation.
+* Microsoft - Building software that we all use.
+* Amazon - Surprisingly, one of the biggest software developer employers on the planet right now. They provide services
+  to nearly every other computer company out there through what is called Amazon Web Services (AWS).
+
+And the list goes on. There are so many companies that have hired and continue to hire software developers that there
+are literally to many to name. `This article <https://www.usatoday.com/story/college/2017/02/15/calling-all-computer-science-majors-jobs-are-waiting-for-you/37427051/>`_
+published in USA Today in 2017 gives you a peek into the job market. In 2017 there were 8,916 open positions for data scientists
+and 72,800 openings for software developers. In the same article another source said there were 500,000 job openings in computer
+programming related areas, while only 50,000 graduates per year. Today LinkedIn lists 2100+ data scientist jobs and 171,000+ jobs for
+software developers. Whatever the exact numbers, it's crazy right now and these are skills you should develop.
+
+And, with high demand, comes higher pay. While these jobs are rewarding and I personally would almost work for free
+for some of these jobs (at least for a while) they are paying college graduates from $80,000 to $100,000 per year
+in most cases as of 2018 when I am writing this. I can't promise that salary for everyone, but if you follow some of
+my suggestions below, many students should be able to command that type of starting salary.
+
+So, what can you do to prepare yourself?
+++++++++++++++++++++++++++++++++++++++++++
+
+First and foremost, pick a school where you can ask questions of someone more experienced and get them answered.
+This is important because with the high demand, good teachers are becoming scarce. Going to a large university will
+mean that you never talk to anyone other than a graduate student in your early undergraduate classes. There are literally
+thousands of students all trying to take Computer Science or Data Science at large universities. The competition is
+tough to just stay in the program because they want to weed out most of the entering freshman before upper level
+classes begin.
+
+Next, get a well-rounded education with both practical experience in Computer Science or Data Science, some theory
+of computation, and other more general skills like presentation skills, writing skills, and maybe some expertise
+outside of Computer Science and Data Science. For instance, people with Biology and Computer Science together can
+command even higher salaries in the right institutions (like Mayo Clinic for instance). Computer Science and Data Science
+represent skills we learn to solve problems in other areas. When you can combine these skills with another area you
+make yourself even more desirable in some circumstances. If you have another passion, combine it with Computer Science
+or Data Science and you have a great career path.
+
+Get good grades. You should be looking to maintain a B average in school at the least. Employers want to see a 3.0 or better GPA.
+But, don't be afraid of not getting A's
+on everything. I have seen too many students take one course, get a B, and think they can't do it and they switch right
+away. Don't do that with Computer Science or Data Science. You are learning something completely new, so don't beat
+yourself up or give up too quickly. You need to work at it of course, but don't be intimidated either.
+
+Volunteer in computer organizations. The `Association for Computing Machines <http://acm.org>`_ is the professional
+organization of Computer Scientists. They have lots of links for students to projects and or organizations where you
+can volunteer or participate in some way. Employers love to see this kind of initiative.
+
+Learn to program of course! You can learn a lot on your own in high school. There are courses on websites like *Coursera*
+that can help. I have many resources available as well on my main page. You should check out the video lectures and my
+introductory textbook. You can learn a lot from the lectures and the text if you make a concerted effort to follow
+through and write some of the problems in the book.
+
+Dig into some interesting problems you find along the way. Good places to look for interesting problems are:
+
+* `Code.org <http://code.org>`_ is a learning site that is used extensively by schools.
+* `Codecademy <http://codecademy.com>`_ has good resources.
+* `Github.com <http://github.com>`_
+* `Stackoverflow.com <http://stackoverflow.com>`_
+* `Kaggle.com <http://kaggle.com>`_
+* Your favorite professors home page! Your college professors might share what they are interested in. It's great
+  to actually have a person to talk to face to face.
+* Again `ACM.org <http://acm.org>`_ has lots of links to places to look.
+* `This website <https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/>`_ provides
+  64 resources for learning to code.
+
+Strive to take enough Computer Science or Data Science to make it worth your while to get an internship after
+your sophomore or junior year in college. These internships are paid (usually around $15 to $25/hour) and often result
+in job offers after graduation for rising seniors. So, many seniors have a job lined up before they start their senior
+year in college. Every one of the companies above and literally hundreds of companies in and around any larger city
+are looking for interns in Computer Science or Data Science. They are often looking in the fall for the next summer. Start
+looking and applying in September for the next summer. Typically companies are still looking up until Christmas or so, but
+some will even be looking in the spring. So, it is never too late to start. An internship gives you the opportunity to know
+a company and the company an opportunity to get to know you.
+
+Finally create a LinkedIn profile for yourself with links to things you have learned and that lists skills you have mastered
+like programming in a particular language, contributions to a project, or volunteer work that you have participated
+in. This starts to build your network for finding on of these jobs or internships. Include the address for your profile
+on any resume you create for applying for jobs and internships. Employers will go out and read more about you online to
+see what you might have done in your spare time.
+
+Take the initiative to do at least some of these things! It will pay off for you. There are so many jobs available that
+as long as you work at it and maintain a B average or so, you are almost guaranteed a good job that is rewarding and
+exciting! Good Luck!!!
+
+  -- Kent D. Lee
+     Professor of Computer Science and Data Science at Luther College
