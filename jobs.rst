@@ -42,7 +42,7 @@ Here are some of the problems that have been worked on by software developers an
   to nearly every other computer company out there through what is called Amazon Web Services (AWS).
 
 And the list goes on. There are so many companies that have hired and continue to hire software developers that there
-are literally to many to name. `This article <https://www.usatoday.com/story/college/2017/02/15/calling-all-computer-science-majors-jobs-are-waiting-for-you/37427051/>`_
+are literally too many to name. `This article <https://www.usatoday.com/story/college/2017/02/15/calling-all-computer-science-majors-jobs-are-waiting-for-you/37427051/>`_
 published in USA Today in 2017 gives you a peek into the job market. In 2017 there were 8,916 open positions for data scientists
 and 72,800 openings for software developers. In the same article another source said there were 500,000 job openings in computer
 programming related areas, while only 50,000 graduates per year. Today LinkedIn lists 2100+ data scientist jobs and 171,000+ jobs for
