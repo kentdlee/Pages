@@ -61,7 +61,12 @@ This is important because with the high demand, good teachers are becoming scarc
 mean that you never talk to anyone other than a graduate student in your early undergraduate classes. There are literally
 thousands of students all trying to take Computer Science or Data Science at large universities. The competition is
 tough to just stay in the program because they want to weed out most of the entering freshman before upper level
-classes begin.
+classes begin. At smaller schools make sure your teachers have an advanced degree and are not just adjuncts. An adjunct
+is a person who has another job and teaches one or two courses. That means teaching is a second job, not their first
+job and that means they are likely going to have less time for you and less experience teaching. Look for full-time
+professors with advanced degrees. A little industry experience doesn't hurt as well, and adjuncts are always bad of
+course, but you should beware of a college that has lots of adjuncts because they are likely not paying their teachers
+well and therefore they are getting a lesser quality teacher. 
 
 Next, get a well-rounded education with both practical experience in Computer Science or Data Science, some theory
 of computation, and other more general skills like presentation skills, writing skills, and maybe some expertise
