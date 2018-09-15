@@ -118,5 +118,5 @@ Take the initiative to do at least some of these things! It will pay off for you
 as long as you work at it and maintain a B average or so, you are almost guaranteed a good job that is rewarding and
 exciting! Good Luck!!!
 
-  -- Kent D. Lee
-     Professor of Computer Science and Data Science at Luther College
+  Kent D. Lee, 
+  Professor of Computer Science and Data Science at Luther College
