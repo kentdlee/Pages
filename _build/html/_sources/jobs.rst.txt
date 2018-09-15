@@ -19,7 +19,7 @@ Computer Science and Data Science have gotten a pretty bad rap for being just fo
 collaborative, full of creativity, demanding, and fun! You get to build things for a living. It's kind of like a
 little more cerebral Lego building job. When you learn the skills of Computer and Data Science professionals, you
 get good at putting the building blocks together in different ways to build some really wonderful solutions to
-problems. That's what Computer Science and Data Science are all about: Solving Problems to make lives better.
+problems. That's what Computer Science and Data Science are all about: Solving problems to make lives better.
 
 Here are some of the problems that have been worked on by software developers and in particular by Luther College graduates.
 
