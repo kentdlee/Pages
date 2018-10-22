@@ -167,7 +167,7 @@ If you wish to contact me about any of these papers or texts, you can send me em
 
 * `A Framework for Teaching Programming Languages <_static/papers/LeeSigCSE2015.pdf>`_ - Presented at SIGCSE 2015.
 
-* `Foundations of Programming Languages <http://cs.luther.edu/~leekent/PL>`_ - Published with Springer in 2015. Support materials for this text may be found at http://cs.luther.edu/~leekent/plfoundations. This text incorporates a virtual machine implementation, compilation of a functional language, and type inference in a one semester course on Programming Languages.
+* `Foundations of Programming Languages <http://cs.luther.edu/~leekent/PL>`_ - Published with Springer in 2015. Support materials for this text may be found at http://cs.luther.edu/~leekent/PL. This text incorporates a virtual machine implementation, compilation of a functional language, and type inference in a one semester course on Programming Languages.
 
 * `Data Structures and Algorithms with Python <http://cs.luther.edu/~leekent/CS2Plus>`_ - Written with Steve Hubbard and published with Springer in 2015. This text covers both introductory and advanced data structures and algorithms topics.
 
