@@ -13,24 +13,23 @@ Hello!
 	:align: right
 
 Welcome to Luther College and the Computer Science Department, the home of both Computer Science and
-Data Science programs! I welcome visitors.
-If you need to see me please consult my `calendar`_ for my office hours. If my office hours
-don't work, then email me with a time that will work but consult my calendar to see when
-I am free first. And, don't hesitate to just stop by. I am available most anytime I am not
-in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside
-my normal office hours.
+Data Science programs!
 
-| **Kent D. Lee, PhD, Department Chair**
-| **Professor of Computer Science**
-| **Luther College**
+I am currently on leave from Luther College while I work for Cray, Inc in Bloomington, MN. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
 
-+--------+---------------------+
-| office |       Olin 318      |
-+--------+---------------------+
-| phone  | 563-387-2429        |
-+--------+---------------------+
-| email  | kentdlee@luther.edu |
-+--------+---------------------+
+.. If you need to see me please consult my `calendar`_ for my office hours. If my office hours don't work, then email me with a time that will work but consult my calendar to see when I am free first. And, don't hesitate to just stop by. I am available most anytime I am not in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside my normal office hours.
+
+.. | **Kent D. Lee, PhD, Department Chair**
+.. | **Professor of Computer Science**
+.. | **Luther College**
+
+.. +--------+---------------------+
+.. | office |       Olin 318      |
+.. +--------+---------------------+
+.. | phone  | 563-387-2429        |
+.. +--------+---------------------+
+.. | email  | kentdlee@luther.edu |
+.. +--------+---------------------+
 
 Interested in Learning to Program?
 ------------------------------------
