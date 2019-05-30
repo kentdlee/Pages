@@ -19,9 +19,9 @@ I am currently on leave from Luther College while I work for Cray, Inc in Bloomi
 
 .. If you need to see me please consult my `calendar`_ for my office hours. If my office hours don't work, then email me with a time that will work but consult my calendar to see when I am free first. And, don't hesitate to just stop by. I am available most anytime I am not in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside my normal office hours.
 
-.. | **Kent D. Lee, PhD, Department Chair**
-.. | **Professor of Computer Science**
-.. | **Luther College**
+| **Kent D. Lee, PhD**
+| **Professor of Computer Science**
+| **Luther College**
 
 .. +--------+---------------------+
 .. | office |       Olin 318      |
