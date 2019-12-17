@@ -56,7 +56,7 @@ people with no previous experience in programming. In support of this text I hav
 are available for free on Youtube. These videos have been very popular with people learning to program. The last I
 checked there were a half million views of these lectures and over 3,300 subscribers to my channel. You can find the `playlist for these
 videos by clicking here <https://www.youtube.com/playlist?list=PL1DE477438120C9EF>`_. `You can access the supplementary
-materials for this textbook by clicking here <http://knuth.luther.edu/~leekent/IntroToComputing>`_.
+materials for this textbook by clicking here <http://kentdlee.github.io/CS1>`_.
 
 .. figure:: _static/frogger.gif
 	:align: right
@@ -71,7 +71,7 @@ builds extremely strong computer opponents by playing games itself and *teaching
 `You can find this free online textbook by clicking here <https://kentdlee.github.io/SCSI/build/html/index.html>`_.
 
 There are two other resources that I have written for introductory programming. The site `Sampling CS for Middle and
-High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are
+High School Students <https://kentdlee.github.io/SamplingCS/>`_ contains some teaching materials that are
 appropriate, and *fun*, for teaching high school and middle school students.
 
 I have also created a sequence of videos for building the game of Frogger. This `playlist contains the full set of
@@ -95,7 +95,7 @@ Queues, Hashtables for sets and maps, and balanced search trees including AVL Tr
 It also includes search and sorting algorithms and heuristic search algorithms. The text addresses computational
 complexity of algorithms throughout by teaching you how to recognize and analyze algorithms to determine the
 behavior as the size of the data grows in an application. `You can access the supplementary materials for this
-text by clicking here <http://knuth.luther.edu/~leekent/CS2Plus>`_.
+text by clicking here <https://kentdlee.github.io/CS2Plus/>`_.
 
 Foundations of Programming Languages
 ++++++++++++++++++++++++++++++++++++++
@@ -109,7 +109,7 @@ have written a `textbook which focuses on the design and implementation of progr
 The text contains some theory mixed with various pieces of a programming language implementation. In addition, the text
 introduces the reader to virtual machines, functional programming with Standard ML, and logic programming with Prolog.
 
-You can get access to `support material for the textbook at this website <http://knuth.luther.edu/~leekent/PL/>`_.
+You can get access to `support material for the textbook at this website <https://kentdlee.github.io/PL/>`_.
 
 The first part of the text introduces a virtual machine, called JCoCo, which supports a low-level programming
 language and is based on the Python 3.2 virtual machine. In fact, JCoCo can execute disassembled Python 3.2 code.
@@ -128,14 +128,14 @@ Quick Links
 Here are direct links for the resources I have written for teaching. You are welcome to use anything
 you find here for non-commercial, educational use.
 
-* `Python Programming Fundamentals Support Materials <http://knuth.luther.edu/~leekent/IntroToComputing>`_ has support materials for my introductory Python programming text. Solutions and other teaching resources are available to teachers upon request.
-* `Data Structures and Algorithms with Python Textbook Support Materials <http://knuth.luther.edu/~leekent/CS2Plus>`_ are available here. Solutions and other teaching resources are available to teachers upon request.
-* `Foundations of Programming Languages Textbook Support Materials <http://knuth.luther.edu/~leekent/PL>`_ can be found here. Solutions and other teaching resources are available to teachers upon request.
-* `The CoCo VM <http://knuth.luther.edu/~leekent/CoCo>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version.
+* `Python Programming Fundamentals Support Materials <https://kentdlee.github.io/CS1>`_ has support materials for my introductory Python programming text. Solutions and other teaching resources are available to teachers upon request.
+* `Data Structures and Algorithms with Python Textbook Support Materials <https://kentdlee.github.io/CS2Plus/>`_ are available here. Solutions and other teaching resources are available to teachers upon request.
+* `Foundations of Programming Languages Textbook Support Materials <https://kentdlee.github.io/PL/>`_ can be found here. Solutions and other teaching resources are available to teachers upon request.
+* `The CoCo VM <https://kentdlee.github.io/CoCoPages>`_ is a virtual machine based on Python that also features a Python disasssembler. This is the older C++ version.
 * The newer `JCoCo <http://kentdlee.github.io/JCoCoPages>`_ virtual machine is a Java implementation.
 * `The MLComp Project on GitHub <http://github.com/kentdlee/MLComp>`_ is a Standard ML compiler that targets the CoCo VM. It includes a compiler implemented in Standard ML and a type inference system for Standard ML which is implemented in Prolog.
-* The `Computational Models Website <http://cs.luther.edu/~leekent/ComputationalModels>`_ contains links to code and project descriptions for a variety of projects I developed for this course. I also have solutions to all projects available to teachers by request.
-* `Sampling CS for Middle and High School Students <http://knuth.luther.edu/~leekent/SamplingCS>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
+* The `Computational Models Website <https://kentdlee.github.io/ComputationalModels>`_ contains links to code and project descriptions for a variety of projects I developed for this course. I also have solutions to all projects available to teachers by request.
+* `Sampling CS for Middle and High School Students <https://kentdlee.github.io/SamplingCS/>`_ contains some teaching materials that are appropriate, and *fun*, for teaching high school and middle school students.
 * `Building a Recursive Descent Parser <_static/papers/ll1.html>`_ is a widely referenced tutorial on building a top-down parser.
 
 Sample Projects
@@ -149,9 +149,9 @@ are not complete projects, but meant to serve as an introduction to some area of
 
 * The `AlphaZero Project <http://github.com/kentdlee/alpha-zero-general>`_ is a clone of `Surag Nair's project <https://github.com/suragnair/alpha-zero-general>`_. In this I took Surag's Alpha Zero Neural Net for playing Tic Tac Toe and added a GUI front-end to it so it could be played against by a human. This could be taken further to add a GUI front-end to the Connect Four neural net but some work would be required to get all of this to work together. I have a GUI front-end that could communicate with the neural net backend in much the same way that the Tic Tac Toe project works (through a pipe and a well-defined architecture).
 
-* The `GoBackN Project <http://cs.luther.edu/~leekent/Networking/GoBackN.html>`_ is an example of a project that I developed when teaching Computer Networking. The project includes several parts of the code. A full solution is available upon request. The project incorporates an implementation of a Socket class and implements TCP over UDP as a means of learning the difference between guaranteed, reliable end to end service with TCP and the unguaranteed service of UDP.
+* The `GoBackN Project <https://kentdlee.github.io/Networking/GoBackN.html>`_ is an example of a project that I developed when teaching Computer Networking. The project includes several parts of the code. A full solution is available upon request. The project incorporates an implementation of a Socket class and implements TCP over UDP as a means of learning the difference between guaranteed, reliable end to end service with TCP and the un-guaranteed service of UDP.
 
-* The `Theory of Computation <http://cs.luther.edu/~leekent/ComputationalModels>`_ site contains several projects that are based on building a bottom-up parser generator and a scanner generator. These projects involve building finite state machines from regular expressions and building a parser from a context-free grammar. These are projects I first worked on during the summer of 1984 (when I was a college student) and have lived on when I rewrote them in Python for use in my Computational Models course. All the code for these projects is complete and is available upon request. The complete project is a full blown compiler generator written in Python.
+* The `Theory of Computation <https://kentdlee.github.io/ComputationalModels>`_ site contains several projects that are based on building a bottom-up parser generator and a scanner generator. These projects involve building finite state machines from regular expressions and building a parser from a context-free grammar. These are projects I first worked on during the summer of 1984 (when I was a college student) and have lived on when I rewrote them in Python for use in my Computational Models course. All the code for these projects is complete and is available upon request. The complete project is a full blown compiler generator written in Python.
 
 There have been other projects in the areas of Computer Graphics, Machine Learning, Artificial Intelligence, Database Systems, Operating Systems, Parallel Computation, Programming Languages, Data Structures and Algorithms, Graph Theory, and the Theory of Computation. I have taught all these courses at one time or another and I have developed projects for all of them.
 
@@ -166,11 +166,11 @@ If you wish to contact me about any of these papers or texts, you can send me em
 
 * `A Framework for Teaching Programming Languages <_static/papers/LeeSigCSE2015.pdf>`_ - Presented at SIGCSE 2015.
 
-* `Foundations of Programming Languages <http://cs.luther.edu/~leekent/PL>`_ - Published with Springer in 2015. Support materials for this text may be found at http://cs.luther.edu/~leekent/PL. This text incorporates a virtual machine implementation, compilation of a functional language, and type inference in a one semester course on Programming Languages.
+* `Foundations of Programming Languages <https://kentdlee.github.io/PL/>`_ - Published with Springer in 2015. Support materials for this text may be found at https://kentdlee.github.io/PL. This text incorporates a virtual machine implementation, compilation of a functional language, and type inference in a one semester course on Programming Languages.
 
-* `Data Structures and Algorithms with Python <http://cs.luther.edu/~leekent/CS2Plus>`_ - Written with Steve Hubbard and published with Springer in 2015. This text covers both introductory and advanced data structures and algorithms topics.
+* `Data Structures and Algorithms with Python <https://kentdlee.github.io/CS2Plus>`_ - Written with Steve Hubbard and published with Springer in 2015. This text covers both introductory and advanced data structures and algorithms topics.
 
-* `Python Programming Fundamentals <http://cs.luther.edu/~leekent/IntroToComputing>`_ - In 2015 I published a second edition with Springer Publishing of this successful introduction to programming. There are also accompanying `video lectures available on YouTube <https://www.youtube.com/user/CSProfessor>`_.
+* `Python Programming Fundamentals <https://kentdlee.github.io/CS1>`_ - In 2015 I published a second edition with Springer Publishing of this successful introduction to programming. There are also accompanying `video lectures available on YouTube <https://www.youtube.com/user/CSProfessor>`_.
 
 * *Programming Languages: An Active Learning Approach* - In 2008 I published this textbook with Springer. This text has since been replaced by the newer *Foundations of Programming Languages*.
 
