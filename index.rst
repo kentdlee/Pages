@@ -12,10 +12,8 @@ Hello!
 .. figure:: _static/kent800.jpg
 	:align: right
 
-Welcome to Luther College and the Computer Science Department, the home of both Computer Science and
-Data Science programs!
 
-I am currently on leave from Luther College while I work for Cray, Inc in Bloomington, MN. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
+I am currently on leave from Luther College while I work for Cray HPE in Bloomington, MN. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
 
 .. If you need to see me please consult my `calendar`_ for my office hours. If my office hours don't work, then email me with a time that will work but consult my calendar to see when I am free first. And, don't hesitate to just stop by. I am available most anytime I am not in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside my normal office hours.
 
@@ -125,6 +123,10 @@ both the compiler and the type inference system.
 
 Quick Links
 ------------------------
+Here are links to tools I have written. These tools are free to use for educational purposes and commercial purposes. If you wish to incorporate any of these tools into a commercial application, you should contact me to get a license to use the code. Again, the tools are free to use commercially. If you want to use the source code (in full or in part) in a product, then you need to license the code from me.
+
+* `SRMStoFigs <https://kentdlee.github.io/SRMStoFigsPage/_build/html/index.html>`_ is a tool for creating control/data flow diagrams of complex systems. It is useful in designing and debugging complex systems.
+
 Here are direct links for the resources I have written for teaching. You are welcome to use anything
 you find here for non-commercial, educational use.
 
