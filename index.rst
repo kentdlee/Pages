@@ -13,12 +13,12 @@ Hello!
 	:align: right
 
 
-I am currently on leave from Luther College while I work for Cray HPE in Bloomington, MN. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
+I am an Emeritus Professor at Luther College. I now work for Cray HPE in Bloomington, MN as a Sotware Engineer/Architect. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
 
 .. If you need to see me please consult my `calendar`_ for my office hours. If my office hours don't work, then email me with a time that will work but consult my calendar to see when I am free first. And, don't hesitate to just stop by. I am available most anytime I am not in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside my normal office hours.
 
 | **Kent D. Lee, PhD**
-| **Professor of Computer Science**
+| **Professor of Computer Science, Emeritus**
 | **Luther College**
 
 .. +--------+---------------------+
