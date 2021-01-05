@@ -13,12 +13,15 @@ Hello!
 	:align: right
 
 
-I am an Emeritus Professor at Luther College. I now work for Cray HPE in Bloomington, MN as a Sotware Engineer/Architect. For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the chair of the department, Roman Yasinovskyy (roman@luther.edu).
+I am an Emeritus Professor at Luther College. I now work for Cray HPE as a Software Engineer/Architect where I work on high performance computing programming environments.
+
+For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the department chair, Roman Yasinovskyy (roman@luther.edu).
 
 .. If you need to see me please consult my `calendar`_ for my office hours. If my office hours don't work, then email me with a time that will work but consult my calendar to see when I am free first. And, don't hesitate to just stop by. I am available most anytime I am not in class between 8:30 and 3:30pm. If needed, I am happy to schedule appointments outside my normal office hours.
 
 | **Kent D. Lee, PhD**
-| **Professor of Computer Science, Emeritus**
+| **Professor Emeritus**
+| **Computer Science**
 | **Luther College**
 
 .. +--------+---------------------+
@@ -189,15 +192,3 @@ If you wish to contact me about any of these papers or texts, you can send me em
 * `Tuple Sort Inference in Action Semantics <http://www.brics.dk/NS/99/3/>`_ - In Peter D. Mosses and David A. Watt, editors, AS'99, Proc. Second International Workshop on Action Semantics, Amsterdam, The Netherlands, number NS-99-3 in Notes Series, BRICS, Dept. of Computer Science, Univ. of Aarhus, May 1999.
 
 * `Action Semantics-based Compiler Generation <_static/papers/thesis.ps>`_ - Completed in 1999, my dissertation describes an Action Semantics-based compiler generator called Genesis. Genesis implements a richer subset of Action Semantics than had been previously attempted in AS compiler generators.
-
-Calendar
---------------
-
-.. raw:: html
-
-  <iframe src="https://calendar.google.com/calendar/embed?src=leekentd%40luther.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
