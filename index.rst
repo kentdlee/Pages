@@ -13,7 +13,7 @@ Hello!
 	:align: right
 
 
-I am an Emeritus Professor at Luther College. I now work for Cray HPE as a Software Engineer/Architect where I work on high performance computing programming environments.
+I am an Emeritus Professor at Luther College. I now work for Cray HPE as a Software Engineer/Architect where I design and implement software for high performance computing (HPC) programming environments.
 
 For items in need of attention related to Luther College and the Computer Science/Data Science departments, please contact the department chair, Roman Yasinovskyy (roman@luther.edu).
 
